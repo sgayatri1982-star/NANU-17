@@ -310,7 +310,7 @@ const ContactPage: React.FC = () => {
             {/* Google Maps Embed */}
             <div className="w-full h-96 relative">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.8658087757!2d72.8526315!3d19.1197592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c9c676018b43%3A0x75f29d7f0b0c5c8e!2sAndheri%20East%2C%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1703123456789!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3507.942712198927!2d77.17657177549418!3d28.451143275764185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDI3JzA0LjEiTiA3N8KwMTAnNDQuOSJF!5e0!3m2!1sen!2sin!4v1766761625149!5m2!1sen!2sin"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -328,9 +328,9 @@ const ContactPage: React.FC = () => {
                   <h3 className="font-bold text-[#2d545e]">PrimXP Office</h3>
                 </div>
                 <p className="text-sm text-gray-600 mb-3">
-                  123 Business Plaza<br />
-                  Andheri East, Mumbai<br />
-                  Maharashtra 400069
+                  F-56, G.Floor, K.No-890,<br />
+                  Village Fatehpur Beri,<br />
+                  ND-74. India 
                 </p>
                 <a
                   href="https://maps.google.com/?q=Andheri+East+Mumbai+Maharashtra"
